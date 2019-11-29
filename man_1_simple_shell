@@ -1,0 +1,35 @@
+.\" Man page for simple shell.
+.\" Contact 1191@holbertonschool.com and 1178@holbertonschool.com to correct errors.
+.TH Simple Shell 1 "28 November 2019" "1.0" "simple shell man page"
+.SH NAME
+simple_shell -- hsh
+.SH SYNOPSIS
+.B ./hsh
+[command] [options]
+.SH DESCRIPTION
+.B hsh
+(Simple Shell) A simple command line interpreter.
+.SH OVERVIEW
+The simple shell interprets and executes commands.
+.SH EXAMPLE
+
+.SH OPTIONS
+.SH FILES
+.It                  \"-a flag as a list item
+Description of -a flag
+.It Fl b
+Description of -b flag
+.I dragola.h
+- Contains all the functions, structures and standard C library header file.
+.I main.c
+- Information
+.I _shell.c
+- Information
+.SH Return Value
+After a successful result, the main functions will return the desired commands.
+.SH BUGS
+Report
+.B simple shell
+bugs to https://github.com/MarcoANT9
+.SH AUTHORS
+Luz Sánchez and Marco Antonio Niño.
